@@ -1,2 +1,4 @@
 *.tsv
 *.csv
+*.npy
+*.json
