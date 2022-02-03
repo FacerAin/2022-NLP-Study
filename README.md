@@ -1,5 +1,20 @@
 # 2022-NLP-Study
-1. Text Classification
-2. Text Similarity
-3. Language Model
-4. Pre-Trained Model
+## Goal
+Learn NLP with Pytorch!
+
+## Content
+
+### Basic
+- Embedding
+  - [ ] TF-IDF
+  - [ ] Word2Vec
+  - [ ] FastText
+- Sequence Model
+  - [ ] Seq2Seq
+  - [ ] Attention
+  - [ ] Transformer
+
+
+### NLP Tasks
+- Classification
+- Text Generation
