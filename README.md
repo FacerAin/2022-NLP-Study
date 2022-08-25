@@ -5,16 +5,16 @@ Learn NLP with Pytorch!
 ## Content
 
 ### Basic
-- Embedding
-  - [ ] TF-IDF
-  - [ ] Word2Vec
-  - [ ] FastText
-- Sequence Model
-  - [ ] Seq2Seq
-  - [ ] Attention
-  - [ ] Transformer
+1. Introduction
+2. RNN/LSTM
+3. Seq2Seq
+4. Transformer
+5. BERT
+6. BERTSUM
 
 
 ### NLP Tasks
-- Classification
-- Text Generation
+- Text Classification
+- Translation
+- Named Entity Recognition
+- Text Summarization
